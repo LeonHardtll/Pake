@@ -2,8 +2,8 @@
   "tauri": {
     "bundle": {
       "icon": [
-        "png/lizhi_512.ico",
-        "png/lizhi_512.png"
+        "png/lizhi_512_512.ico",
+        "png/lizhi_512_512.png"
       ],
       "identifier": "leon",
       "active": true,
