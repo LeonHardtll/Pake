@@ -2,8 +2,8 @@
   "tauri": {
     "bundle": {
       "icon": [
-        "png/weread_256.ico",
-        "png/weread_32.ico"
+        "png/lizhi_256_256.ico",
+        "png/lizhi_32_32.ico"
       ],
       "identifier": "com.tw93.weread",
       "active": true,
