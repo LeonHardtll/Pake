@@ -6,29 +6,13 @@
   "tauri": {
     "windows": [
       {
-        "url": "https://3d-app.yunser.com/earth",
-        "transparent": true,
-        "fullscreen": false,
-        "width": 1200,
-        "height": 728,
-        "resizable": true
-      },
-      {
-        "url": "https://3d-app.yunser.com/plateMotion",
-        "transparent": true,
-        "fullscreen": false,
-        "width": 1200,
-        "height": 728,
-        "resizable": true
-      },
-      {
         "url": "https://bruno-simon.com/",
         "transparent": true,
         "fullscreen": false,
         "width": 1200,
         "height": 728,
         "resizable": true
-      },
+      }
     ],
     "security": {
       "csp": null
